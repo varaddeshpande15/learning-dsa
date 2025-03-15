@@ -27,14 +27,14 @@ Contribute / Add Solutions:
 3. Found an alternative solution? Want to add an explanation? Feel free to contribute! 🚀
 ```
 ## 📜 Topics Covered (Coming Soon....)
-✅ Arrays & Strings – Two pointers, sliding window, prefix sums.
-✅ Linked Lists – Reversal, cycle detection, merging.
-✅ Stacks & Queues – Monotonic stack, min-max queue, LRU cache.
-✅ Recursion & Backtracking – Subsets, permutations, N-Queens.
-✅ Sorting & Searching – Merge Sort, Quick Sort, Binary Search.
-✅ Dynamic Programming – Memoization, tabulation, Knapsack, LIS.
-✅ Graphs – BFS, DFS, Dijkstra, Floyd-Warshall, MST.
-✅ Tries & Trees – BST, AVL, Segment Trees, Fenwick Tree.
-✅ Bit Manipulation – XOR tricks, bit masking, subset generation.
+- ✅ Arrays & Strings – Two pointers, sliding window, prefix sums.
+- ✅ Linked Lists – Reversal, cycle detection, merging.
+- ✅ Stacks & Queues – Monotonic stack, min-max queue, LRU cache.
+- ✅ Recursion & Backtracking – Subsets, permutations, N-Queens.
+- ✅ Sorting & Searching – Merge Sort, Quick Sort, Binary Search.
+- ✅ Dynamic Programming – Memoization, tabulation, Knapsack, LIS.
+- ✅ Graphs – BFS, DFS, Dijkstra, Floyd-Warshall, MST.
+- ✅ Tries & Trees – BST, AVL, Segment Trees, Fenwick Tree.
+- ✅ Bit Manipulation – XOR tricks, bit masking, subset generation.
 
 
